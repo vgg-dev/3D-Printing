@@ -1,4 +1,4 @@
-# Misc. 3D-Printing stuff
+# 3D-Printing
 
 **STLs and OpenSCAD files:**
 
