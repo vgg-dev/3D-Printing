@@ -8,8 +8,8 @@ The 3D printable mount serves as a customizable and practical solution to secure
 
 ## Files
 
-- **`mount.scad`:** The OpenSCAD script file containing the parametric design for the mount.
-- **`mount.stl`:** The pre-generated STL file for 3D printing.
+- **`blink-mount.scad`:** The OpenSCAD script file containing the parametric design for the mount.
+- **`blink-mount.stl`:** The pre-generated STL file for 3D printing.
 
 ## Features
 
